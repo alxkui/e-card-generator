@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/e-card-generator/static/css/main.06066f4a.chunk.css",
+    "main.js": "/e-card-generator/static/js/main.19ed7393.chunk.js",
+    "main.js.map": "/e-card-generator/static/js/main.19ed7393.chunk.js.map",
+    "runtime-main.js": "/e-card-generator/static/js/runtime-main.3bc2027f.js",
+    "runtime-main.js.map": "/e-card-generator/static/js/runtime-main.3bc2027f.js.map",
+    "static/js/2.258aceaf.chunk.js": "/e-card-generator/static/js/2.258aceaf.chunk.js",
+    "static/js/2.258aceaf.chunk.js.map": "/e-card-generator/static/js/2.258aceaf.chunk.js.map",
+    "index.html": "/e-card-generator/index.html",
+    "precache-manifest.2a971b31b08acae85db97e37dafa72c6.js": "/e-card-generator/precache-manifest.2a971b31b08acae85db97e37dafa72c6.js",
+    "service-worker.js": "/e-card-generator/service-worker.js",
+    "static/css/main.06066f4a.chunk.css.map": "/e-card-generator/static/css/main.06066f4a.chunk.css.map",
+    "static/js/2.258aceaf.chunk.js.LICENSE.txt": "/e-card-generator/static/js/2.258aceaf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bc2027f.js",
+    "static/js/2.258aceaf.chunk.js",
+    "static/css/main.06066f4a.chunk.css",
+    "static/js/main.19ed7393.chunk.js"
+  ]
+}
